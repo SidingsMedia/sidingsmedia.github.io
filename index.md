@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## Welcome to Sidings Media
 
-You can use the [editor on GitHub](https://github.com/Sidings-Media/sidingsmedia.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Who are we?
+Sidings Media is a collection of small youtube channels that focus on a variety of topics from model railways to software and electronics. We focus on not only entertaining our
+audience but educating them as well. We work on various types of projects, from building a model railway and doing all the intricate scenery to designing software and hardware 
+to control models. We focus on keeping everything we do opensource because you cant learn if you can't see the code. We belive that everyone should be able to access our projects and modfy them as much as they want.
 
-### Markdown
+### Current Projects
+At the moment we are working on a few projects, one of which being our [railway control system](https://sidings-media.github.io/DC-Model-Railway-Controller/). This system will
+allow the user to control their DC model railway with a computer.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Sidings-Media/sidingsmedia.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Contact us
+If you want to contact us with any queries or questions then please contact [support@sidingsmedia.sytes.net](mailto:support@sidingsmedia.sytes.net) and we will strive to respond 
+to you as quickly as possible.
