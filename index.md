@@ -18,4 +18,3 @@ allow the user to control their DC model railway with a computer.
 If you want to contact us with any queries or questions then please contact [support@sidingsmedia.sytes.net](mailto:support@sidingsmedia.sytes.net) and we will strive to respond 
 to you as quickly as possible.
 
-update
